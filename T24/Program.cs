@@ -2,7 +2,6 @@
 A = 3; B = 5 -> 243 (3⁵)
 A = 2; B = 3 -> 8*/
 
-
 int Power (int a, int n)
 {
     if(n==0)
